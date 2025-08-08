@@ -9,10 +9,10 @@
   },
   "name": "vercel_tts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Text-to-speech app on Vercel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
